@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectThreeApp2</string>
+    <string name="permissionDescription" >Request Permission for edu.uic.cs478.f18.project3</string>
+
+</resources>

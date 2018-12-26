@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProjectThreeApp3</string>
+    <string name="permissionDescription" >Request Permission for edu.uic.cs478.f18.project3</string>
+    <string-array name="Titles">
+        <item>Google Headquarters</item>
+        <item>Facebook Headquarters</item>
+        <item>Golden Gate Bridge</item>
+        <item>Pier 39</item>
+        <item>Fisherman\'s Wharf</item>
+        <item>Alcatraz Island</item>
+    </string-array>
+    <string-array name="WebPages">
+        <item>https://www.google.com/about/locations/?region=north-america&amp;office=mountain-view</item>
+        <item>https://www.facebook.com/Facebook-HQ-166793820034304/</item>
+        <item>http://goldengatebridge.org/</item>
+        <item>https://www.pier39.com/</item>
+        <item>http://www.fishermanswharf.org/</item>
+        <item>https://www.alcatrazcruises.com/</item>
+    </string-array>
+</resources>
